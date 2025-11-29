@@ -38,7 +38,7 @@ struct ContentView: View {
                         Text("Roll")
                             .font(.system(size: 50))
                             .fontWeight(.heavy)
-                            .foregroundColor(.white)
+                            .foregroundColor(.accentColor)
                             .padding(EdgeInsets(top: 5, leading: 20, bottom: 5, trailing: 20))
                         
                     })
